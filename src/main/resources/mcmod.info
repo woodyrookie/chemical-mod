@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chemical",
+  "name": "ChemicalMod",
+  "description": "A mod that adds chemicals and new items.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["woodyrookie"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
