@@ -1,5 +1,6 @@
 # Chemical Mod
 An Addon for hbm ntm:ce for adding new chemical plant recipes
+![logo png](https://raw.githubusercontent.com/woodyrookie/chemical-mod/refs/heads/main/ChemicalMod.png)
 
 ## THIS MOD IS NOT COMPLETED AND PROB THERES BUGS, FOR NOW IS ON DEVELOPMENT, PLS WAIT UNTIL NEXT WEEK
 ## 06/03/2026
